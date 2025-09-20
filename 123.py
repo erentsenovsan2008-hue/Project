@@ -4,6 +4,6 @@ b = int(input("Введите целое число - "))
 print(a+b)
 print(a-b)
 print(a/b)
-R= int(input())
+R = int(input())
 S = R**2 * pi
 print('Площадб круга - ', S)
